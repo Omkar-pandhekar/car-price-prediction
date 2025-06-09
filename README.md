@@ -2,11 +2,11 @@
 
 A machine learning-based web application that predicts car prices based on various features using Streamlit.
 
-## Overview / अवलोकन
+## Overview 
 
 This project uses machine learning to predict car prices based on various features such as brand, year, kilometers driven, fuel type, and other specifications. The application is built using Python and Streamlit, providing an interactive user interface for price predictions.
 
-## Features / विशेषताएं
+## Features 
 
 - Interactive web interface
 - Real-time price predictions
@@ -23,7 +23,7 @@ This project uses machine learning to predict car prices based on various featur
   - Maximum Power
   - Number of Seats
 
-## Technical Stack / तकनीकी स्टैक
+## Technical Stack 
 
 - Python
 - Streamlit
@@ -32,7 +32,7 @@ This project uses machine learning to predict car prices based on various featur
 - Scikit-learn (for ML model)
 - Pickle (for model serialization)
 
-## Project Structure / प्रोजेक्ट संरचना
+## Project Structure 
 
 ```
 Car-Price/
@@ -42,7 +42,7 @@ Car-Price/
 └── Car_Price_Model.ipynb # Jupyter notebook for model development
 ```
 
-## Installation / इंस्टॉलेशन
+## Installation 
 
 1. Clone the repository:
 
@@ -57,7 +57,7 @@ cd Car-Price
 pip install -r requirements.txt
 ```
 
-## Usage / उपयोग
+## Usage
 
 1. Run the Streamlit app:
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 4. Click "Predict" to get the estimated car price
 
-## Model Details / मॉडल विवरण
+## Model Details
 
 The model takes into account various features to predict car prices:
 
@@ -87,10 +87,10 @@ The model takes into account various features to predict car prices:
 - Maximum power
 - Number of seats
 
-## Contributing / योगदान
+## Contributing 
 
 Feel free to submit issues and enhancement requests!
 
-## License / लाइसेंस
+## License 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
